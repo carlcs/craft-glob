@@ -33,10 +33,10 @@ Find pathnames in your templates folder matching a pattern.
 #### Parameters
 
 `path` (optional)
-:   The subpath in craft/templates/ you want to search in.
+:   The sub-path in craft/templates/ you want to search in.
 
 `pattern` (optional)
-:   The pattern as discribed in the PHP [`glob`][1] ducumentation (Default value is `'*.{html,twig}'`).
+:   The pattern as described in the PHP [`glob`][1] documentation (Default value is `'*.{html,twig}'`).
 
 
   [1]: http://php.net/manual/en/function.glob.php
