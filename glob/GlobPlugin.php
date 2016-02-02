@@ -15,7 +15,7 @@ class GlobPlugin extends BasePlugin
 
     public function getSchemaVersion()
     {
-        return null;
+        return '1.0';
     }
 
     public function getDeveloper()
