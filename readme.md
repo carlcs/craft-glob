@@ -1,4 +1,4 @@
-# Glob plugin for Craft
+# Glob plugin for Craft CMS
 
 Craft plugin that adds a Twig function to find pathnames in your templates folder matching a pattern.
 
